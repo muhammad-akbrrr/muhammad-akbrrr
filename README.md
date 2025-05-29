@@ -1,6 +1,6 @@
-![Image](https://github.com/user-attachments/assets/634f291c-22a0-4059-ae6e-bec5bfecb509)
+![images steamusercontent](https://github.com/user-attachments/assets/20fc1092-a5b5-4735-a22b-9b64444b46fc)
 
-# Wazzup!👋, I'm Akbar
+# Hey there👋, I'm Akbar
 
 <p>Head of Engineering @ExeEyes</p>
 
